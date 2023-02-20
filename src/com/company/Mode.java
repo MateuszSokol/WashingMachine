@@ -1,0 +1,13 @@
+package com.company;
+
+public enum Mode {
+    CODZIENNE,
+    DELIKATNE,
+    SZYBKIE,
+    BAWELNA,
+    KOLOROWE,
+    WYSOKA_TEMPERATURA,
+    UMIARKOWANA_TEMPERATURA,
+    NISKA_TEMPERATURA,
+
+}
